@@ -1,0 +1,103 @@
+(kicad_sch (version 20210126) (generator eeschema)
+
+  (paper "A4")
+
+  (lib_symbols
+    (symbol "power:VSS" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+      (property "Reference" "#PWR" (id 0) (at 0 -3.81 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "Value" "VSS" (id 1) (at 0 3.81 0)
+        (effects (font (size 1.27 1.27)))
+      )
+      (property "Footprint" "" (id 2) (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "Datasheet" "" (id 3) (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_keywords" "power-flag" (id 4) (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_description" "Power symbol creates a global label with name \"VSS\"" (id 5) (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (symbol "VSS_0_1"
+        (polyline
+          (pts
+            (xy 0 0)
+            (xy 0 2.54)
+          )
+          (stroke (width 0)) (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0.762 1.27)
+            (xy -0.762 1.27)
+            (xy 0 2.54)
+            (xy 0.762 1.27)
+          )
+          (stroke (width 0)) (fill (type outline))
+        )
+      )
+      (symbol "VSS_1_1"
+        (pin power_in line (at 0 0 90) (length 0) hide
+          (name "VSS" (effects (font (size 1.27 1.27))))
+          (number "1" (effects (font (size 1.27 1.27))))
+        )
+      )
+    )
+  )
+
+
+
+  (wire (pts (xy 153.67 91.44) (xy 163.83 91.44))
+    (stroke (width 0) (type solid) (color 0 0 0 0))
+    (uuid 9190fe89-5e81-4777-90f9-400a23eebb7f)
+  )
+
+  (symbol (lib_id "power:VSS") (at 153.67 91.44 0) (unit 1)
+    (in_bom yes) (on_board yes)
+    (uuid 866df52c-462b-4bb4-8c07-fa5d376ba22b)
+    (property "Reference" "#PWR0101" (id 0) (at 153.67 95.25 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "VSS" (id 1) (at 154.94 86.36 0))
+    (property "Footprint" "" (id 2) (at 153.67 91.44 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (id 3) (at 153.67 91.44 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 4b15e742-ab29-40a3-928c-8dc8b376ce09))
+  )
+
+  (symbol (lib_id "power:VSS") (at 163.83 91.44 0) (unit 1)
+    (in_bom yes) (on_board yes)
+    (uuid ab08ef4d-c212-4cf1-b567-a5c0db7680f1)
+    (property "Reference" "#PWR0102" (id 0) (at 163.83 95.25 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "VSS" (id 1) (at 165.1 86.36 0))
+    (property "Footprint" "" (id 2) (at 163.83 91.44 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (id 3) (at 163.83 91.44 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid d5357fa8-041a-4062-945f-03d6b4b94d10))
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+
+  (symbol_instances
+    (path "/866df52c-462b-4bb4-8c07-fa5d376ba22b"
+      (reference "#PWR0101") (unit 1) (value "VSS") (footprint "")
+    )
+    (path "/ab08ef4d-c212-4cf1-b567-a5c0db7680f1"
+      (reference "#PWR0102") (unit 1) (value "VSS") (footprint "")
+    )
+  )
+)
