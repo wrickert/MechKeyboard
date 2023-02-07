@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150.0mm"
+   height="150.0mm"
+   viewBox="0 0 150.0 150.0"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="TouchSplitRight.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0670983"
+     inkscape:cx="352.35742"
+     inkscape:cy="290.976"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g85028"
+     borderlayer="true" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="[fixed] BG"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true"
+     id="g85018">
+    <rect
+       x="0"
+       y="0"
+       width="150.0"
+       height="150.0"
+       style="fill:#FFFFFF;fill-opacity:1;stroke:none"
+       id="rect85016" />
+  </g>
+  <g
+     inkscape:label="Edge.Cuts"
+     inkscape:groupmode="layer"
+     id="g85020"
+     style="display:none">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.275797px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 13.8747 125.851 L 13.7557 125.722 L 13.6386 125.563 L 13.5236 125.372 L 13.4106 125.151 L 13.1906 124.62 L 12.9787 123.974 L 12.7747 123.216 L 12.5788 122.352 L 12.3908 121.383 L 12.2107 120.316 L 12.0386 119.153 L 11.8742 117.899 L 11.7178 116.557 L 11.5691 115.132 L 11.295 112.047 L 11.0519 108.676 L 10.8394 105.051 L 10.6572 101.204 L 10.5053 97.1658 L 10.3833 92.9694 L 10.2911 88.6463 L 10.2283 84.2282 L 10.1947 79.7471 L 10.1902 75.2348 L 10.2145 70.7231 L 10.2673 66.2439 L 10.3484 61.8291 L 10.4576 57.5104 L 10.5947 53.3197 L 10.7594 49.289 L 10.9515 45.45 L 11.1708 41.8345 L 11.417 38.4745 L 11.6899 35.4018 L 11.8362 33.9832 L 11.9892 32.6482 L 12.1487 31.4011 L 12.3148 30.2456 L 12.4873 29.1859 L 12.6664 28.2259 L 12.8518 27.3695 L 13.0437 26.6208 L 13.2419 25.9837 L 13.4466 25.4622 L 13.5512 25.2461 L 13.6575 25.0604 L 13.7653 24.9055 L 13.8747 24.7821 L 14.2408 24.2511 L 14.6305 23.7434 L 15.043 23.2586 L 15.4779 22.7959 L 15.9346 22.3548 L 16.4124 21.9347 L 16.9107 21.535 L 17.429 21.1552 L 17.9667 20.7945 L 18.5231 20.4525 L 19.0977 20.1285 L 19.6899 19.8219 L 20.2991 19.5322 L 20.9246 19.2588 L 21.5659 19.001 L 22.2224 18.7583 L 22.8935 18.5301 L 23.5786 18.3158 L 24.2771 18.1148 L 24.9884 17.9265 L 26.447 17.5857 L 27.9497 17.2886 L 29.4916 17.0305 L 31.0681 16.8067 L 32.6743 16.6124 L 34.3055 16.443 L 74.082 16.443 L 81.8494 16.961 L 85.7036 17.2423 L 89.5419 17.5455 L 93.3671 17.8756 L 97.182 18.238 L 100.989 18.6379 L 104.792 19.0804 L 108.592 19.5708 L 112.394 20.1143 L 114.296 20.4076 L 116.199 20.7161 L 118.103 21.0405 L 120.01 21.3814 L 121.919 21.7395 L 123.83 22.1155 L 125.745 22.5099 L 127.663 22.9234 L 129.584 23.3568 L 131.51 23.8106 L 133.44 24.2854 L 135.374 24.7821 L 135.452 24.8284 L 135.529 24.9094 L 135.604 25.0247 L 135.678 25.1736 L 135.822 25.5703 L 135.961 26.0951 L 136.095 26.7435 L 136.225 27.5112 L 136.349 28.3938 L 136.468 29.3868 L 136.691 31.6869 L 136.894 34.3763 L 137.077 37.4199 L 137.241 40.7825 L 137.384 44.4289 L 137.508 48.3242 L 137.612 52.4331 L 137.697 56.7205 L 137.762 61.1513 L 137.808 65.6903 L 137.834 70.3024 L 137.841 74.9525 L 137.828 79.6054 L 137.797 84.2261 L 137.746 88.7793 L 137.676 93.23 L 137.588 97.5429 L 137.48 101.683 L 137.353 105.615 L 137.208 109.304 L 137.044 112.715 L 136.861 115.813 L 136.659 118.562 L 136.439 120.928 L 136.322 121.956 L 136.2 122.874 L 136.074 123.68 L 135.943 124.367 L 135.808 124.933 L 135.668 125.371 L 135.596 125.542 L 135.523 125.679 L 135.449 125.782 L 135.374 125.851 L 135.264 125.929 L 135.117 126.007 L 134.71 126.16 L 134.159 126.312 L 133.469 126.461 L 132.644 126.608 L 131.688 126.752 L 130.607 126.894 L 129.405 127.032 L 126.658 127.3 L 123.484 127.555 L 119.92 127.796 L 116.004 128.021 L 111.773 128.229 L 107.265 128.42 L 102.518 128.592 L 97.5687 128.744 L 92.4547 128.875 L 87.2135 128.983 L 81.8827 129.069 L 76.4998 129.129 L 71.1022 129.165 L 65.7274 129.173 L 60.413 129.154 L 55.1964 129.105 L 50.1151 129.027 L 45.2067 128.917 L 40.5085 128.775 L 36.0581 128.599 L 31.8931 128.389 L 28.0508 128.142 L 26.2624 128.006 L 24.5687 127.859 L 22.9745 127.704 L 21.4844 127.538 L 20.1032 127.363 L 18.8354 127.178 L 17.6858 126.983 L 16.6591 126.777 L 15.76 126.562 L 14.9931 126.335 L 14.3631 126.099 L 14.1009 125.976 L 13.8747 125.851 L 13.8747 125.851"
+       id="path1353"
+       sodipodi:nodetypes="cccccccc" />
+  </g>
+  <g
+     inkscape:label="B.Cu"
+     inkscape:groupmode="layer"
+     id="g85022" />
+  <g
+     inkscape:label="B.Mask"
+     inkscape:groupmode="layer"
+     id="g85024" />
+  <g
+     inkscape:label="B.SilkS"
+     inkscape:groupmode="layer"
+     id="g85026" />
+  <g
+     inkscape:label="F.Cu"
+     inkscape:groupmode="layer"
+     id="g85028"
+     style="display:inline">
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.491022;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect846"
+       width="18.558979"
+       height="18.558979"
+       x="16.378765"
+       y="26.575609"
+       ry="3.9368861" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.491022;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1154"
+       width="18.558979"
+       height="18.558979"
+       x="16.378765"
+       y="46.17561"
+       ry="3.9368861" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.491022;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1156"
+       width="18.558979"
+       height="18.558979"
+       x="16.378765"
+       y="65.775604"
+       ry="3.9368861" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.491022;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1158"
+       width="18.558979"
+       height="18.558979"
+       x="16.378765"
+       y="85.375603"
+       ry="3.9368861" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.491022;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1160"
+       width="18.558979"
+       height="18.558979"
+       x="16.378765"
+       y="104.9756"
+       ry="3.9368861" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.491022;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1162"
+       width="18.558979"
+       height="18.558979"
+       x="35.978764"
+       y="18.575609"
+       ry="3.9368861" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.491022;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1164"
+       width="18.558979"
+       height="18.558979"
+       x="35.978764"
+       y="38.17561"
+       ry="3.9368861" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.491022;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1166"
+       width="18.558979"
+       height="18.558979"
+       x="35.978764"
+       y="57.775608"
+       ry="3.9368861" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.491022;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1168"
+       width="18.558979"
+       height="18.558979"
+       x="35.978764"
+       y="77.375603"
+       ry="3.9368861" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.491022;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1170"
+       width="18.558979"
+       height="18.558979"
+       x="35.978764"
+       y="96.975601"
+       ry="3.9368861" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.491022;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1172"
+       width="18.558979"
+       height="18.558979"
+       x="55.578762"
+       y="18.575609"
+       ry="3.9368861" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.491022;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1174"
+       width="18.558979"
+       height="18.558979"
+       x="55.578762"
+       y="38.17561"
+       ry="3.9368861" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.491022;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1176"
+       width="18.558979"
+       height="18.558979"
+       x="55.578762"
+       y="57.775608"
+       ry="3.9368861" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.491022;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1178"
+       width="18.558979"
+       height="18.558979"
+       x="55.578762"
+       y="77.375603"
+       ry="3.9368861" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.491022;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1180"
+       width="18.558979"
+       height="18.558979"
+       x="55.578762"
+       y="96.975601"
+       ry="3.9368861" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.491022;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1182"
+       width="18.558979"
+       height="18.558979"
+       x="75.178757"
+       y="22.575609"
+       ry="3.9368861" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.491022;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1184"
+       width="18.558979"
+       height="18.558979"
+       x="75.178757"
+       y="42.17561"
+       ry="3.9368861" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.491022;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1186"
+       width="18.558979"
+       height="18.558979"
+       x="75.178757"
+       y="61.775608"
+       ry="3.9368861" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.491022;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1188"
+       width="18.558979"
+       height="18.558979"
+       x="75.178757"
+       y="81.375603"
+       ry="3.9368861" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.491022;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1190"
+       width="18.558979"
+       height="18.558979"
+       x="75.178757"
+       y="100.9756"
+       ry="3.9368861" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.491022;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1192"
+       width="18.558979"
+       height="18.558979"
+       x="94.77877"
+       y="26.575609"
+       ry="3.9368861" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.491022;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1194"
+       width="18.558979"
+       height="18.558979"
+       x="94.778763"
+       y="46.17561"
+       ry="3.9368861" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.491022;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1196"
+       width="18.558979"
+       height="18.558979"
+       x="94.778763"
+       y="65.775604"
+       ry="3.9368861" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.491022;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1198"
+       width="18.558979"
+       height="18.558979"
+       x="94.778763"
+       y="85.375603"
+       ry="3.9368861" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.491022;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1200"
+       width="18.558979"
+       height="18.558979"
+       x="94.778763"
+       y="104.9756"
+       ry="3.9368861" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.491022;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1202"
+       width="18.558979"
+       height="18.558979"
+       x="114.37877"
+       y="26.575609"
+       ry="3.9368861" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.491022;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1204"
+       width="18.558979"
+       height="18.558979"
+       x="114.37877"
+       y="46.17561"
+       ry="3.9368861" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.491022;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1206"
+       width="18.558979"
+       height="18.558979"
+       x="114.37877"
+       y="65.775604"
+       ry="3.9368861" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.491022;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1208"
+       width="18.558979"
+       height="18.558979"
+       x="114.37877"
+       y="85.375603"
+       ry="3.9368861" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.491022;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1210"
+       width="18.558979"
+       height="18.558979"
+       x="114.37877"
+       y="104.9756"
+       ry="3.9368861" />
+  </g>
+  <g
+     inkscape:label="F.Mask"
+     inkscape:groupmode="layer"
+     id="g85030" />
+  <g
+     inkscape:label="F.SilkS"
+     inkscape:groupmode="layer"
+     id="g85032">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3321px;line-height:1.25;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="22.796274"
+       y="39.605652"
+       id="text8484"><tspan
+         sodipodi:role="line"
+         id="tspan8482"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3321px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="22.796274"
+         y="39.605652">6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3321px;line-height:1.25;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="42.396271"
+       y="31.67281"
+       id="text9676"><tspan
+         sodipodi:role="line"
+         id="tspan9674"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3321px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="42.396271"
+         y="31.67281">7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3321px;line-height:1.25;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="61.996269"
+       y="31.67281"
+       id="text11374"><tspan
+         sodipodi:role="line"
+         id="tspan11372"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3321px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="61.996269"
+         y="31.67281">8</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.33205971px;line-height:1.25;font-family:'URW Gothic';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;-inkscape-font-specification:'URW Gothic, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="83.04908"
+       y="32.37627"
+       id="text12940"><tspan
+         sodipodi:role="line"
+         id="tspan12938"
+         style="stroke-width:0.264583;-inkscape-font-specification:'URW Gothic, Normal';font-family:'URW Gothic';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.33205971px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="83.04908"
+         y="32.37627">9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3321px;line-height:1.25;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="101.1911"
+       y="39.67281"
+       id="text15694"><tspan
+         sodipodi:role="line"
+         id="tspan15692"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3321px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="101.1911"
+         y="39.67281">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3321px;line-height:1.25;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="22.599964"
+       y="59.272812"
+       id="text27220"><tspan
+         sodipodi:role="line"
+         id="tspan27218"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3321px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="22.599964"
+         y="59.272812">Y</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3321px;line-height:1.25;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="22.129856"
+       y="78.872803"
+       id="text31832"><tspan
+         sodipodi:role="line"
+         id="tspan31830"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3321px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="22.129856"
+         y="78.872803">H</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3321px;line-height:1.25;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="21.835392"
+       y="98.472801"
+       id="text34608"><tspan
+         sodipodi:role="line"
+         id="tspan34606"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3321px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="21.835392"
+         y="98.472801">N</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3321px;line-height:1.25;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="41.874504"
+       y="51.20565"
+       id="text39052"><tspan
+         sodipodi:role="line"
+         id="tspan39050"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3321px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="41.874504"
+         y="51.20565">U</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3321px;line-height:1.25;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="63.690727"
+       y="51.272812"
+       id="text45578"><tspan
+         sodipodi:role="line"
+         id="tspan45576"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3321px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="63.690727"
+         y="51.272812">I</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.33205971px;line-height:1.25;font-family:'URW Gothic';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;-inkscape-font-specification:'URW Gothic, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="82.211922"
+       y="53.386219"
+       id="text46748"><tspan
+         sodipodi:role="line"
+         id="tspan46746"
+         style="stroke-width:0.264583;-inkscape-font-specification:'URW Gothic, Normal';font-family:'URW Gothic';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.33205971px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="82.211922"
+         y="53.386219">O</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3321px;line-height:1.25;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="100.74683"
+       y="59.272812"
+       id="text49194"><tspan
+         sodipodi:role="line"
+         id="tspan49192"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3321px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="100.74683"
+         y="59.272812">P</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3321px;line-height:1.25;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="43.104019"
+       y="70.800484"
+       id="text52288"><tspan
+         sodipodi:role="line"
+         id="tspan52286"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3321px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="43.104019"
+         y="70.800484">J</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3321px;line-height:1.25;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="61.443504"
+       y="70.87281"
+       id="text55472"><tspan
+         sodipodi:role="line"
+         id="tspan55470"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3321px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="61.443504"
+         y="70.87281">K</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.33205971px;line-height:1.25;font-family:'URW Gothic';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;-inkscape-font-specification:'URW Gothic, Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="82.937973"
+       y="74.355515"
+       id="text57260"><tspan
+         sodipodi:role="line"
+         id="tspan57258"
+         style="stroke-width:0.264583;-inkscape-font-specification:'URW Gothic, Normal';font-family:'URW Gothic';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.33205971px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="82.937973"
+         y="74.355515">L</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3321px;line-height:1.25;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="102.79774"
+       y="77.328156"
+       id="text59442"><tspan
+         sodipodi:role="line"
+         id="tspan59440"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3321px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="102.79774"
+         y="77.328156">;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3321px;line-height:1.25;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="40.51067"
+       y="90.472801"
+       id="text64108"><tspan
+         sodipodi:role="line"
+         id="tspan64106"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3321px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="40.51067"
+         y="90.472801">M</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3321px;line-height:0.95;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22044"
+       x="50.901424"
+       y="101.67285"
+       id="text68642"
+       transform="scale(1.2002515,0.83315871)"><tspan
+         sodipodi:role="line"
+         id="tspan68640"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3321px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.22044"
+         x="50.901424"
+         y="101.67285">&lt;</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3321px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.22044"
+         x="50.901424"
+         y="111.48835"
+         id="tspan81224">,</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3321px;line-height:0.95;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.223193"
+       x="68.120651"
+       y="105.47757"
+       id="text74130"
+       transform="scale(1.1854436,0.84356607)"><tspan
+         sodipodi:role="line"
+         id="tspan74128"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3321px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.223193"
+         x="68.120651"
+         y="105.47757">&gt;</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3321px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.223193"
+         x="68.120651"
+         y="115.29307"
+         id="tspan83680">.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3321px;line-height:0;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.224496"
+       x="85.373497"
+       y="109.09816"
+       id="text75850"
+       transform="scale(1.1785652,0.84848933)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3321px;line-height:0.95;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.224496"
+         sodipodi:role="line"
+         id="tspan95699"
+         x="85.373497"
+         y="109.09816">?</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.3321px;line-height:1.25;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.224496"
+         x="85.373497"
+         y="120.46347"
+         id="tspan77214">/</tspan></text>
+  </g>
+  <g
+     inkscape:label="Dwgs.User"
+     inkscape:groupmode="layer"
+     id="g85034" />
+  <g
+     inkscape:label="Drill"
+     inkscape:groupmode="layer"
+     id="g85036" />
+</svg>

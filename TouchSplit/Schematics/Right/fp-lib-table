@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "TouchSplitRight")(type KiCad)(uri "$(KIPRJMOD)/TouchSplitRight.pretty")(options "")(descr ""))
+)
